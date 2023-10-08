@@ -3,7 +3,7 @@
 # Jittor 计图挑战热身赛 baseline
 | 标题名称包含赛题、方法
 
-![主要结果](https://s3.bmp.ovh/imgs/2022/04/19/440f015864695c92.png)
+![主要结果](https://github.com/circular456/jit/blob/main/result.png)
 
 ｜展示方法的流程特点或者主要结果等
 
@@ -46,5 +46,5 @@ bash scripts/test.sh
 
 ## 致谢
 
-此项目基于论文 *A Style-Based Generator Architecture for Generative Adversarial Networks* 实现，部分代码参考了 [jittor-jgan]([https://github.com/Jittor/gan-jittor](https://github.com/Jittor/JGAN))。
+此项目基于论文 *A Style-Based Generator Architecture for Generative Adversarial Networks* 实现，部分代码参考了 [jittor-jgan](https://github.com/Jittor/JGAN)。
 
