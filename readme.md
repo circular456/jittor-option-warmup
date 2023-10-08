@@ -1,8 +1,6 @@
 
 # Jittor 计图挑战热身赛 baseline
 
-![Alt Text](result.png)
-
 ## 简介
 
 本项目包含了第三届计图挑战赛计图 - 热身赛的代码实现。本项目的特点是：采用了  Conditional GAN(Conditional generative adversarial nets) 方法对 MNIST数据集进行训练处理，并生成特定数字的图像。
